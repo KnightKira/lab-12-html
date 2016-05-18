@@ -17,4 +17,19 @@ h2 { color: gray ;
 body {
 font-family:sans-serif;
 font-size: 12px;
+
+background: white url(http://static2.consumerreportscdn.org/content/dam/cro/magazine-articles/2014/August/CRM_Page15_FastFood_Opener_Chart_08-14.jpg);
+#intro {
+	border-style: solid;
+	border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-color: black;
+
+}
+.spotlight {
+	background: yellow;
+}
+li a:hover {
+	text-transform: uppercase;
 }
